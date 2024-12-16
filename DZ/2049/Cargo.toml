@@ -1,0 +1,8 @@
+[package]
+name = "DZ"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fltk = { version = "1.5", features = ["fltk-bundled"] }
+rand = {version="0.8"}
